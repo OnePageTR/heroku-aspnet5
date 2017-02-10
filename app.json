@@ -1,0 +1,16 @@
+{
+  "name": "heroku-aspnet5",
+  "description": "This is example",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
